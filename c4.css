@@ -1,0 +1,16 @@
+#title{
+  text-align: center;
+}
+#subtitle{
+  text-align: center;
+}
+#paragraph{
+  text-align: center;
+}
+button{
+  background: rgb(128, 128, 128);
+  height: 100px;
+  width: 100px;
+  border: black 5px solid;
+  border-radius: 300px;
+}
